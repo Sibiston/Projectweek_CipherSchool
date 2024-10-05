@@ -47,7 +47,9 @@ To run the game locally, please follow these steps:
 - **Enhanced Graphics**: Upgrade graphics and animations for a more polished appearance.
 
 ## Screenshots
-*(Add screenshots of your game here to showcase gameplay and graphics)*
+![Gameplay Screenshot 1]()
+![Gameplay Screenshot 2]()
+![Gameplay Screenshot 3]()
 
 ## License
 This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
