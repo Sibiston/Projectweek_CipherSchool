@@ -51,8 +51,7 @@ To run the game locally, please follow these steps:
 ![Gameplay Screenshot 2]()
 ![Gameplay Screenshot 3]()
 
-## License
-This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
+
 
 ## Acknowledgments
 - Special thanks to Unity Technologies for providing the game engine.
